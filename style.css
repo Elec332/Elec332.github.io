@@ -107,7 +107,7 @@ a{
 	padding-bottom: 2em;
 }
 
-.panel-default,.panel-heading{
+.panel-default,.panel-heading,.panel-MCprojects{
 	border-radius: 4px;
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
@@ -120,6 +120,15 @@ a{
 	border: 0.05em solid #222222;
 	color: #ffffff;
 }
+
+.panel-MCprojects
+{
+	background:#FFFFFF;
+	margin: 0.5em;
+	border: 0.05em solid #222222;
+	color: #ffffff;
+}
+
 .panel-heading{
 	width: 100%;
 	vertical-align: middle;
