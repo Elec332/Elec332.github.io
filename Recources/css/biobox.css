@@ -1,0 +1,59 @@
+.biobox_out,.biobox_name,.biobox_profile,#biobox_buttons{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-align: left;
+}
+.biobox_out,.biobox_name,.biobox_profile{
+	padding: 10px;
+}
+.biobox_name,.biobox_profile{
+	background-color:#333333;
+	color:#ffffff;
+}
+.biobox_out,.biobox_name,.biobox_container{
+	display:block;
+}
+.biobox_container,.biobox_profile{
+	padding: 0px;
+	margin: 0px;
+}
+
+.biobox_out{
+	background-color:#171717;
+	vertical-align: top !important;
+	width: 852px;
+	min-height: 300px;
+	color: #fff;
+}
+.biobox_name{
+	margin-bottom: 10px;
+	background-color:#666666;
+	text-shadow: 1px 1px 2px #000;
+	font-weight: bold;
+	font-size: 1.4em;
+	color: #ffffff;
+}
+.biobox_container{
+	width: 100%;
+}
+.biobox_profile{
+	display:inline-block;
+	height: 240px;
+	width: 426px;
+	overflow: auto;
+}
+.biobox_profile{
+	background-repeat: no-repeat;
+	background-position: center center;
+    background-size: contain;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#biobox_buttons{
+	background-color: #171717;
+	float: right;
+	text-align: center;
+	padding: 5px;
+}
