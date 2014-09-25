@@ -1,0 +1,17 @@
+.wrapper,html,body,.wrapper,.container,.col-2,.col-3,.col-4{
+	margin: 0em !important;
+	padding: 0em !important;
+	min-width: 200px;
+	max-width: 100% !important;
+	width: 100% !important;
+	height: auto;
+}
+.nav-login,.nav-login > li,.nav-tabs,.nav-tabs > li,.container,.col-2,.col-3,.col-4{
+	width: 100% !important;
+	display: inline-block !important;
+}
+
+.nav-tabs > li,.nav-login > li{
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
