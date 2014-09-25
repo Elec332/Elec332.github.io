@@ -192,6 +192,13 @@ a{
 .nav-tabs > .active a{
 	color: #000000 !important;
 }
+.nav-tabs > .top{
+	margin-left: 1px;
+	background:#505050 !important;
+}
+.nav-tabs > .top a{
+	color: #ffffff !important;
+}
 
 
 .clickbutton {

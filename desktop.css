@@ -23,9 +23,21 @@ html {
 	-webkit-border-radius: 4px 4px 0px 0px;
 	-khtml-border-radius: 4px 4px 0px 0px;
 }
+
 .nav-tabs > .active{
 	margin-top: 5px;
 }
+{E_TopCode}
+.nav-tabs > .top{
+	margin-top: 5px;
+}
+.panel-heading,.nav-tabs > .top,.nav-login > li{
+	border-radius: 4px 4px 0px 0px;
+	-moz-border-radius: 4px 4px 0px 0px;
+	-webkit-border-radius: 4px 4px 0px 0px;
+	-khtml-border-radius: 4px 4px 0px 0px;
+}
+{E_TopCode}
 .nav-login > .active{
 	margin-bottom: 5px;
 	margin-top: 0px !important;
